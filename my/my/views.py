@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 
 def hello(request):
-    v="Hello"
+    v="Hii"
     return HttpResponse(v) 
     
